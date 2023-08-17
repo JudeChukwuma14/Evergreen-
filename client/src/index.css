@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "CustomFont";
+  src: url("../font/Poppins/Poppins-Black.ttf");
+  src: url("../font/Poppins/Poppins-Bold.ttf");
+  src: url("../font/Poppins/Poppins-ExtraBold.ttf");
+  src: url("../font/Poppins/Poppins-Medium.ttf");
+  src: url("../font/Poppins/Poppins-Regular.ttf");
+  src: url("../font/Poppins/Poppins-SemiBold.ttf");
+  src: url("../font/Poppins/Poppins-Thin.ttf");
+}
+
+body{
+  font-family: CustomFont;
+}
