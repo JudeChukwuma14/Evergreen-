@@ -12,8 +12,9 @@ import Pic5 from "../assets/image/Alert-highlight.png"
 import Pic6 from "../assets/image/Empty State-highlight.png"
 import Pic7 from "../assets/image/Table Layout-highlight.png"
 import Pic8 from "../assets/image/Error Messages-highlight.png"
-import Svg from  "../assets/image/Com.png"
-import Svg1 from "../assets/image/Comp.png"
+import Svg1 from  "../assets/image/Colorside.svg"
+import Svg2 from "../assets/image/Side.svg"
+import Svg3 from "../assets/image/Outcolor.svg"
 
 
 interface Iprops{
@@ -108,7 +109,7 @@ export const DesignLanguage:FC = () => {
       <AllWrapper>
           <Wrapper>
             <WrapperHolder>
-            <GetI Photo={Svg1} />
+            <GetI Photo={Svg2} />
             <Design  
                 title ={title1}
                 text ={text1}
@@ -124,7 +125,7 @@ export const DesignLanguage:FC = () => {
           
           <Wrapper>
             <WrapperHolder>
-            <GetI Photo={Svg} />
+            <GetI Photo={Svg3} />
           
 
             <Design 
@@ -143,7 +144,7 @@ export const DesignLanguage:FC = () => {
 
           <Wrapper>
             <WrapperHolder>
-            <GetI Photo={Svg} />
+            <GetI Photo={Svg1} />
             <Design 
                 title ={title3}
                 text ={text3}

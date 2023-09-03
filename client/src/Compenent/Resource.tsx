@@ -1,6 +1,7 @@
 import {FC} from 'react'
 import styled from '@emotion/styled'
-import Pic from "../assets/image/logo-FNAHYZVS.png"
+import Pic from "../assets/image/Figma.svg"
+import pic from "../assets/image/sector.svg"
 
 
 
@@ -74,7 +75,7 @@ export const Resource:FC = () => {
           </Para>
           <BoxHolder>
             <ResourceProps avater={Pic} write='Evergreen Labrary' />
-            <ResourceProps avater={Pic} write='Segment Brand Hub' />
+            <ResourceProps avater={pic} write='Segment Brand Hub' />
           </BoxHolder>
          
    

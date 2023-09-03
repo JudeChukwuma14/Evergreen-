@@ -7,7 +7,9 @@ import Image from "../assets/image/img1.png"
 
 const Container =styled.div`
 display: flex;
-justify-content: center;
+justify-content: space-between;
+padding-left: 120px;
+padding-right: 120px;
 align-items: center;
 
 `

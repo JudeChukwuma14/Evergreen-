@@ -1,7 +1,7 @@
 import {FC} from 'react'
 import styled from '@emotion/styled'
-import Pic from "../assets/image/schedule-calendar-svgrepo-com.svg"
-import Pic1 from "../assets/image/box.svg"
+import Pic from "../assets/image/starcal.svg"
+import Pic1 from "../assets/image/Boxing.svg"
 
 
 
