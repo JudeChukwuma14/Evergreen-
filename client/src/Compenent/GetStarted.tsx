@@ -13,7 +13,8 @@ interface Iprops{
 }
 
 const Containter =styled.section`
-padding: 40px;
+padding-left: 120px;
+padding-right: 120px;
 `
 const WrapperHolder =styled.div`
   display: flex;

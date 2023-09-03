@@ -20,6 +20,11 @@ const Imagehold =styled.div`
 const Img =styled.img`
 height: 100px;
 width: 150px;
+filter: grayscale(1);
+
+:hover{
+  filter: grayscale(0);
+}
 `
 const Para =styled.p`
 font-size: 16px;

@@ -4,7 +4,9 @@ import Segment from "../assets/image/segment-logo.svg"
 
 
 const Foot =styled.footer`
-
+padding-left: 120px;
+padding-right: 120px;
+padding-top: 20px;
 background-color: #FFFFFF;
 
 `

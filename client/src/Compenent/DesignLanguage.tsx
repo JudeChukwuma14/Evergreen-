@@ -3,15 +3,15 @@ import {FC} from 'react'
 
 
 //Image-------------
-import Pic from "../assets/image/Typography.png"
-import Pic1 from "../assets/image/Colors.png"
-import Pic2 from "../assets/image/Icons.png"
-import Pic3 from "../assets/image/Button.png"
-import Pic4 from "../assets/image/Badge & Pill.png"
-import Pic5 from "../assets/image/Alert.png"
-import Pic6 from "../assets/image/Empty State.png"
-import Pic7 from "../assets/image/Table Layout.png"
-import Pic8 from "../assets/image/Error Messages.png"
+import Pic from "../assets/image/Typography-highlight.png"
+import Pic1 from "../assets/image/Colors-highlight.png"
+import Pic2 from "../assets/image/Icons-highlight.png"
+import Pic3 from "../assets/image/Button-highlight.png"
+import Pic4 from "../assets/image/Badge & Pill-highlight.png"
+import Pic5 from "../assets/image/Alert-highlight.png"
+import Pic6 from "../assets/image/Empty State-highlight.png"
+import Pic7 from "../assets/image/Table Layout-highlight.png"
+import Pic8 from "../assets/image/Error Messages-highlight.png"
 import Svg from  "../assets/image/Com.png"
 import Svg1 from "../assets/image/Comp.png"
 
@@ -25,7 +25,9 @@ interface Iprops{
 
 const Selection =styled.div`
 background-color: #FFFFFF;
-padding: 40px;
+padding-left: 120px;
+padding-right: 120px;
+
 `
 const AllWrapper =styled.div`
   display: flex;

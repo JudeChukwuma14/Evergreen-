@@ -14,7 +14,8 @@ interface Iprops{
 
 const Contianter =styled.section`
 background-color: #FFFFFF;
-padding: 40px;
+padding-left: 120px;
+padding-right: 120px;
 `
 const Wrapper =styled.div`
 display: flex;
